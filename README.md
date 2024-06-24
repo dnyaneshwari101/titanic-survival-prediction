@@ -1,2 +1,2 @@
 # titanic-survival-prediction
-This is a simple data science project which demostrates data cleaning, data visualization to un
+This is a simple data science project which demostrates data cleaning, data visualization to understand the data and finally training a logistic regression model and analysing the accuracy score after prediction of the model. The model predicts whether the passenger has survived or not. The model trained on features like class of the passenger (1,2 or 3), gender, Age, no of siblings or parents with the passenger, Fare of the journey and port of Embarkation.
